@@ -192,12 +192,15 @@ body {
 .calendar--month-length-28 :nth-child(29) {
   display: none;
 }
+
 .calendar--month-length-28 :nth-child(30) {
   display: none;
 }
+
 .calendar--month-length-28 :nth-child(31) {
   display: none;
 }
+
 .calendar--month-length-28 :nth-child(32) {
   display: none;
 }
@@ -205,9 +208,11 @@ body {
 .calendar--month-length-29 :nth-child(30) {
   display: none;
 }
+
 .calendar--month-length-29 :nth-child(31) {
   display: none;
 }
+
 .calendar--month-length-29 :nth-child(32) {
   display: none;
 }
@@ -215,6 +220,7 @@ body {
 .calendar--month-length-30 :nth-child(31) {
   display: none;
 }
+
 .calendar--month-length-30 :nth-child(32) {
   display: none;
 }
