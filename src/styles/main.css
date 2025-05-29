@@ -162,7 +162,7 @@ body {
 }
 
 .calendar--start-day-mon :first-child {
-  margin-left: 0px;
+  margin-left: 0;
 }
 
 .calendar--start-day-tue :first-child {
